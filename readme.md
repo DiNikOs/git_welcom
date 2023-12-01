@@ -7,6 +7,7 @@
 ## Text formatting
 
 *Italics*
+_Italics_
 
 **Bold**
 
