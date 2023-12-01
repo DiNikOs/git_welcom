@@ -1,9 +1,16 @@
 # Start learn Git
 
+
+## Subtitle
+
+
+## Text formatting
+
 *Italics*
 
 **Bold**
 
+## Checklist
 * Element 1
 * Element 2
 * Element 3
