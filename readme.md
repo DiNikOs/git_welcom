@@ -7,3 +7,6 @@ Start learn Git
 * Element 1
 * Element 2
 * Element 3
+
+1. First element
+2. Second element
