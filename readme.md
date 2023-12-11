@@ -28,6 +28,11 @@ Tilda
 >First level quoting
 >> Second level quoting
 
-## Web link
-[My web site](http://t920910f.beget.tech/index.php)
+## Links
+Autolink: <http://example.com>
 
+Link: [Example](http://example.com)
+
+Reference style [link][1].
+
+[1]: http://example.com  "Example"
