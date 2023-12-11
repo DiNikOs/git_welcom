@@ -42,8 +42,44 @@ git log
 git log --oneline
 ```
 
+* Displays a list of all commits (saves) in chronological order (in one line) and graphically changes
+
+```sh
+git log --oneline --graph
+```
+
 * Navigate between saves and commits
 
 ```sh
 git checkout
+```
+
+* Displays branchs
+
+```sh
+git branch
+```
+
+* Shows branchs
+
+```sh
+git branch
+```
+
+* Add new branch
+
+```sh
+git branch <branch_name>
+```
+
+* Delete branch
+
+```sh
+git branch -d <branch_name>
+```
+
+* Merge branch
+
+```sh
+git merge <branch_name>
 ```
