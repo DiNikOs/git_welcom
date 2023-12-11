@@ -36,3 +36,7 @@ Link: [Example](http://example.com)
 Reference style [link][1].
 
 [1]: http://example.com  "Example"
+
+## Images
+
+Image: ![Balls](balls.jpg)
