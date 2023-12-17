@@ -99,6 +99,21 @@ git remote -v
 git remote set-url origin git@github.com:<Login>/<Repo>
 ```
 
+* Make a local copy of a remote repository
+```sh
+git clone git@github.com:<Login>/<Repo>
+```
+
+* "pull/download" all changes from the remote repository
+```sh
+git pull
+```
+
+* Push changes to a remote repository
+```sh
+git push
+```
+
 * Push local branches to a remote repository
 ```sh
 git push --set-upstream origin <branch>
