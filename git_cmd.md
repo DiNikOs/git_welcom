@@ -83,3 +83,23 @@ git branch -d <branch_name>
 ```sh
 git merge <branch_name>
 ```
+
+* Rename original Main branch
+```sh
+git branch -M main  
+```
+
+* See remote repositories linked to your local clone
+```sh
+git remote -v
+```
+
+* reassign another Git for push
+```sh
+git remote set-url origin git@github.com:<Login>/<Repo>
+```
+
+* Push local branches to a remote repository
+```sh
+git push --set-upstream origin <branch>
+```
